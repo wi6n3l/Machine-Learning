@@ -1,0 +1,19 @@
+Formato de data set :
+
+valor:valor * 2
+
+Funcionamento:
+
+input em binário com 3 bytes
+
+random 0-2 (float) para cada passagem, 1º teste com 0 neurónios
+
+( GUARDAR RESULTADOS DE MODO A PODER FAZER ESTATISTICA )
+
+a cada vez fazer 100 versões diferentes multiplicando por um float(0-2) e fazer o mesmo na geração seguinte com o que obter
+ melhores resultados
+
+_______________________
+
+Tentar implementar alimentação de data set gradual
+
